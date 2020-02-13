@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UUU",
+        "UUU",
+        "UUU"
+    ],
+    
+    "key":
+    {
+    "U": { "item": "genting:polished_dyonissum" }
+        
+    },
+    
+    "result":
+    {
+        "item": "genting:polished_dyonissum_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "genting:gallenite_ore"
+  },
+  "result": "genting:lead_ingot",
+  "experience": 0.35,
+  "cookingtime": 200
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UUU",
+        "UOU",
+        "UUU"
+    ],
+    
+    "key":
+    {
+    "U": { "item": "genting:vase" },
+    
+    "O": { "item": "minecraft:magma_cream"} },
+   
+    "result":
+    {
+        "item": "genting:bottled_fire",
+        "count": 1
+    }
+}

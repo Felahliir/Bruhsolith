@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UUU",
+        "UUU",
+        "UUU"
+    ],
+    
+    "key":
+    {
+    "U": { "item": "genting:lead_ingot" }
+        
+    },
+    
+    "result":
+    {
+        "item": "genting:lead_block",
+        "count": 1
+    }
+}

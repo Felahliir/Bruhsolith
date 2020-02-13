@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "genting:polished_dyonissum_block"
+    }
+    ],
+ 
+    "result":
+    {
+        "item": "genting:polished_dyonissum",
+        "count": 9
+    }
+}

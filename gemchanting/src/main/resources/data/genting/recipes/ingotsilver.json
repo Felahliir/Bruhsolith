@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+   
+      {
+      "item": "genting:silver_nugget"
+    },
+      {
+      "item": "genting:silver_nugget"
+    },
+     
+      {
+      "item": "genting:silver_nugget"
+    },
+    
+     {
+      "item": "genting:silver_nugget"
+    }
+  
+    
+
+   
+    ],
+ 
+    "result":
+    {
+        "item": "genting:silver_ingot",
+        "count": 1
+    }
+}

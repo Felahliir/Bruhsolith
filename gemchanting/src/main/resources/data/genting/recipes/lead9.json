@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "genting:lead_block"
+    }
+    ],
+ 
+    "result":
+    {
+        "item": "genting:lead_ingot",
+        "count": 9
+    }
+}

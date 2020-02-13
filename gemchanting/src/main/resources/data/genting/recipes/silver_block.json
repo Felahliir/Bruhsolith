@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UUU",
+        "UUU",
+        "UUU"
+    ],
+    
+    "key":
+    {
+    "U": { "item": "genting:silver_ingot" }
+        
+    },
+    
+    "result":
+    {
+        "item": "genting:silver_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        " U ",
+        " U "
+    ],
+    
+    "key":
+    {
+    "U": { "item": "genting:lard" },
+         "I": { "item": "minecraft:string" }   
+    
+    
+    
+    
+    
+    },
+    
+    "result":
+    {
+        "item": "genting:candle",
+        "count": 8
+    }
+}

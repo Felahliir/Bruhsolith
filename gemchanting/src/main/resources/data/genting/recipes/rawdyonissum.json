@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UUU",
+        "UUU",
+        "UUU"
+    ],
+    
+    "key":
+    {
+    "U": { "item": "genting:dyonissum" }
+        
+    },
+    
+    "result":
+    {
+        "item": "genting:winestone_block",
+        "count": 1
+    }
+}

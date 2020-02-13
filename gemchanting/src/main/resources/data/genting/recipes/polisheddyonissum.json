@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "###",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "genting:dyonissum"
+    }  },
+  "result": {
+    "item": "genting:polished_dyonissum", "count": 1
+  }
+}

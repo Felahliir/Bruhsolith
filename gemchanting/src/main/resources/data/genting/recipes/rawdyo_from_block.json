@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "genting:winestone_block"
+    }
+    ],
+ 
+    "result":
+    {
+        "item": "genting:dyonissum",
+        "count": 9
+    }
+}

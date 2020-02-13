@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " U ",
+        " U ",
+        " O "
+    ],
+    
+    "key":
+    {
+    "O": { "item": "minecraft:stick"},
+    
+    "U":  { "item": "genting:lead_ingot"}},
+   
+    "result":
+    {
+        "item": "genting:leadsword",
+        "count": 1
+    }
+}

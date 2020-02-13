@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "USU",
+        "UOU",
+        "USU"
+    ],
+    
+    "key":
+    {
+    "U": { "item": "genting:vase" },
+    
+    "O": { "item": "minecraft:magma_cream"} ,
+    
+      "S": { "item": "minecraft:water_bucket"} 
+    },
+   
+    "result":
+    {
+        "item": "genting:bottled_fog",
+        "count": 6
+    }
+}

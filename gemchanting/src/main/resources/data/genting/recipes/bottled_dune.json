@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UUU",
+        "UOU",
+        "UUU"
+    ],
+    
+    "key":
+    {
+    "U": { "item": "genting:arid_land"},
+    
+    "O":  { "item": "genting:vase"}},
+   
+    "result":
+    {
+        "item": "genting:bottled_dune",
+        "count": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UUU",
+        "UUU",
+        "UUU"
+    ],
+    
+    "key":
+    {
+    "U": { "item": "genting:copper_nugget" }
+        
+    },
+    
+    "result":
+    {
+        "item": "genting:copper_ingot",
+        "count": 1
+    }
+}

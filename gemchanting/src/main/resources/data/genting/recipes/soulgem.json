@@ -1,0 +1,51 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:soul_sand"
+    },
+     {
+      "item": "minecraft:sand", "data": 0
+    },
+    
+    {
+      "item": "minecraft:sand", "data": 0
+    },
+    
+    {
+      "item": "minecraft:sand", "data": 0
+    },
+     
+      {
+      "item": "minecraft:soul_sand"
+    },
+    
+     {
+      "item": "minecraft:soul_sand"
+    }
+  
+    ,
+      {
+      "item": "minecraft:quartz"
+    },
+     
+     
+     {
+      "item": "minecraft:quartz"
+    },
+    
+     {
+      "item": "minecraft:quartz"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "genting:soulgem",
+        "count": 1
+    }
+}

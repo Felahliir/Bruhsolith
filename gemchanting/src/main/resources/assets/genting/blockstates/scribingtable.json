@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "genting:block/scribingtable", "y": -180  },
+    "facing=south": { "model": "genting:block/scribingtable" },
+    "facing=west": { "model": "genting:block/scribingtable", "y": 90 },
+    "facing=east": { "model": "genting:block/scribingtable", "y": -90 }
+  }
+}
